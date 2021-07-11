@@ -62,3 +62,7 @@ The script downloads the following files:
 - `Thumbnails/`: contains the thumbnails
 
 An example run of the script is shown below:
+
+
+https://user-images.githubusercontent.com/62750974/125193981-e4543000-e26c-11eb-89ee-c20f5e6f9dec.mp4
+
