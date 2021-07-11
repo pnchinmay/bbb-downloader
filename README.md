@@ -74,3 +74,7 @@ An example run of the script is shown below:
 
 https://user-images.githubusercontent.com/62750974/125193981-e4543000-e26c-11eb-89ee-c20f5e6f9dec.mp4
 
+
+
+## Are you facing any problems ? Need additional support ?
+[Open an issue on the issue page](https://github.com/pnchinmay/bbb-downloader/issues/new)
