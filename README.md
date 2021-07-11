@@ -52,8 +52,6 @@ pip3 install -r python-requirements.txt
 
 To download the videos and slides which are already available to view
 in the BBB playback page, simply run the script in the terminal or the script can be directly run by double-clicking the script in the file manager as shown in the demo video below.
-
-`easydownload.sh`:
 ```
 $ ./easydownload.sh
 ```
