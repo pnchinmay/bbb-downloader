@@ -34,6 +34,9 @@ don’t come directly as a video.
 
 Let's first see the easiest tool `download_bbb_data.py`, which can be used to download
 everything but slides, which may be your first option.
+```
+$ ./download_bbb_data.py URL
+```
 
 ## Downloading already available recordings
 
@@ -45,11 +48,13 @@ pip3 install -r python-requirements.txt
 ```
 
 To download the videos and slides which are already available to view
-in the BBB playback page, simply run the script
+in the BBB playback page, simply run the script in the terminal or the script can be directly run by double-clicking the script in the file manager as shown in the demo video below.
+
 `easydownload.sh`:
 ```
 $ ./easydownload.sh
 ```
+Or the script can be directly run by double-clicking the script in the file manager as shown in the demo video below.
 
 The script downloads the following files:
 
@@ -62,6 +67,9 @@ The script downloads the following files:
 - `Thumbnails/`: contains the thumbnails
 
 An example run of the script is shown below:
+```
+:bulb This video is meant for the end-users who don't know to run scripts through terminal
+```
 
 
 https://user-images.githubusercontent.com/62750974/125193981-e4543000-e26c-11eb-89ee-c20f5e6f9dec.mp4
