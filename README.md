@@ -34,6 +34,9 @@ don’t come directly as a video.
 
 Let's first see the easiest tool `download_bbb_data.py`, which can be used to download
 everything but slides, which may be your first option.
+
+:bulb ```This script will download the audio and video in separate file along
+with the images of the slides. For the combined video with audio in mp4 format, check out the next script below```
 ```
 $ ./download_bbb_data.py URL
 ```
