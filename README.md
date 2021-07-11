@@ -55,7 +55,6 @@ in the BBB playback page, simply run the script in the terminal or the script ca
 ```
 $ ./easydownload.sh
 ```
-Or the script can be directly run by double-clicking the script in the file manager as shown in the demo video below.
 
 The script downloads the following files:
 
