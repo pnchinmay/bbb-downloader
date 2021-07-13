@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Issue template for bug or feature request
-title: BUG
+title: 'BUG: '
 labels: bug, feature request
 assignees: ''
 
