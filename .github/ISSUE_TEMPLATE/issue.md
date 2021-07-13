@@ -1,7 +1,7 @@
 ---
 name: issue.md
-about: Describe this issue template's purpose here.
-title: ''
+about: Issue template for bug or feature request
+title: BUG
 labels: bug, feature request
 assignees: ''
 
