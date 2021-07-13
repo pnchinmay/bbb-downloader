@@ -46,7 +46,7 @@ $ ./download_bbb_data.py URL
 First download and install python and other required dependencies for the script:
 ```
 sudo apt update
-sudo apt install python3 python3-pip ffmpeg bc
+sudo apt install python3 python3-pip ffmpeg bc zenity
 pip3 install -r python-requirements.txt
 ```
 
