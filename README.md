@@ -77,4 +77,4 @@ https://user-images.githubusercontent.com/62750974/125193981-e4543000-e26c-11eb-
 
 ## Are you facing any problems ? Need additional support ?
 Check out closed issues [here.](https://github.com/pnchinmay/bbb-downloader/issues?q=is%3Aissue+is%3Aclosed) One of them must be relevant to your problem.  
-Or open a new issue on the issue page [here](https://github.com/pnchinmay/bbb-downloader/issues/new?assignees=&labels=bug%2C+feature+request&template=bug-report.md&title=BUG)
+Or open a new issue on the issue page [here](https://github.com/pnchinmay/bbb-downloader/issues/new?assignees=&labels=bug%2C+feature+request&template=bug-report.md&title=BUG%3A+)
