@@ -1,5 +1,5 @@
 # bbb-downloader
-A few scripts for downloading BigBlueButton (BBB) recordings as
+A download script for downloading BigBlueButton (BBB) recordings as
 videos.
 
 BBB allows recording sessions, and will allow replaying the recordings
